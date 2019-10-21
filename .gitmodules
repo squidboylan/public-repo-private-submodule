@@ -1,0 +1,3 @@
+[submodule "private-sub"]
+	path = private-sub
+	url = git@github.com:squidboylan/private-sub.git
